@@ -53,7 +53,9 @@ class ReviewDetailSerializer(serializers.ModelSerializer):
         ]
 
     def get_product_name(self, obj):
-        return obj.product.name
+        if obj.product is not None:
+            return obj.product.name
+        return "None"
 
     def get_retailer(self, obj):
         return obj.retailer.name
