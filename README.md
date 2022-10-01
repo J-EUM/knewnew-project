@@ -41,6 +41,9 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>&nbsp;
 
+## DB모델링
+![image](https://user-images.githubusercontent.com/97498663/193400519-cb451fb7-2286-496f-84ea-042b4b8b8391.png)
+
 
 ## 구현 
 
